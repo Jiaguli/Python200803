@@ -9,7 +9,7 @@ elif float(BMI)<27:
     print('過重')
 elif float(BMI)<30:
     print('輕度肥胖')
-elif float(BMI)<36:
+elif float(BMI)<35:
     print('中度肥胖')
 else:
     print('重度肥胖')
